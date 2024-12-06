@@ -63,7 +63,7 @@ This section includes the most frequently used Git commands with detailed exampl
       ```
       This command fetches changes from the remote `main` branch and merges them into your local `main` branch.
 
-For more detailed information, visit the [Git Wiki](link-to-git-wiki).
+For more detailed information, visit the [Git Wiki](https://github.com/skelen18/SkelenUtils/wiki/Git-Commands).
 
 ---
 
